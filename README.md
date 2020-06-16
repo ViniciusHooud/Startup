@@ -3,7 +3,7 @@ TCC - Versão beta - em desenvolvimento.
 
 Um aplicativo mobile com criação na intenção de diminuir o alto nivel de desemprego.
 
-O aplicativo com vem com o nome de StartupM tem a intenção de que você ganhe dinheiro utilizando sua própria mão de obra.
+O aplicativo com vem com o nome de StartupMe tem a intenção de que você ganhe dinheiro utilizando sua própria mão de obra.
 
 Ou
 
